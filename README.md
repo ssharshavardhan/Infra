@@ -21,7 +21,7 @@ It operates in modes
 
     *Sort files by least recently used
     
-2. Sort the files on Desktop
+2. Sort the files on Desktop (stores them into respective folders on Desktop)
 
     *Sort based on valid extensions
     
