@@ -14,16 +14,25 @@ but dont remove shortcuts of My Computer, Chrome or even Counter strike.
 
 ---------------------------------------------------------------------------------------------------------
 
-##Working
+##Working 
+
 It operates in modes
 1. Gets N largest files of system
+
     *Sort files by least recently used
+    
 2. Sort the files on Desktop
+
     *Sort based on valid extensions
+    
     *Sort based on kinds of extensions
+    
     *List files and folders on your Desktop
+    
     *Sort folders based on data they hold like images etc.
+    
 3. List duplicate files on your system    
+
 4. Exit
 
 LIBRARIES USED:
